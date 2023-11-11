@@ -1,0 +1,15 @@
+[submodule "gis-bis-render"]
+	path = gis-bis-render
+	url = git@github.com:awesomemax777/gis-bis.git
+[submodule "gis-bis-gateway"]
+	path = gis-bis-gateway
+	url = git@github.com:awesomemax777/gis-bis-gateway.git
+[submodule "gis-bis-eureka-server"]
+	path = gis-bis-eureka-server
+	url = git@github.com:awesomemax777/gis-bis-eureka-server.git
+[submodule "gis-bis-config-server"]
+	path = gis-bis-config-server
+	url = git@github.com:awesomemax777/gis-bis-config-server.git
+[submodule "gis-bis-config"]
+	path = gis-bis-config
+	url = git@github.com:awesomemax777/gis-bis-config-server.git
